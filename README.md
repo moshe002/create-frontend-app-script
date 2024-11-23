@@ -6,6 +6,6 @@ Script only works on Windows, I haven't tried linux or macOS.
 
 To execute the script:
 - open git bash
-- type './createfrontendapp.sh
+- type ./createfrontendapp.sh
 
-Steps are shown when the script is executed and are straightforward.
+Steps are shown when the script is executed and are fairly straightforward.
