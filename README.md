@@ -9,3 +9,8 @@ To execute the script:
 - type ./createfrontendapp.sh
 
 Steps are shown when the script is executed and are fairly straightforward.
+
+DEMO VIDEO:
+https://github.com/user-attachments/assets/bbe5b6a0-86bb-42dd-97d7-791540da88f5
+
+
